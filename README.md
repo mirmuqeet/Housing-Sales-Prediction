@@ -1,4 +1,4 @@
-****Housing Price Prediction Model****
+**Housing Price Prediction Model**
 
 This project involves building a housing price prediction model using machine learning techniques to predict house prices based on various features.
 
@@ -64,10 +64,12 @@ Assessed model performance through key metrics and examined feature importance.
 Model Performance Metrics:
 
 R-squared: 0.676
+
 Adjusted R-squared: 0.667
+
 These metrics indicate that the model explains approximately 67.6% of the variance in housing prices.
-**
-Key Features:**
+
+**Key Features:**
 
 area
 bathrooms
@@ -83,6 +85,7 @@ unfurnished
 **Feature Insights:**
 
 The area of the house is the most significant predictor of price.
+
 Categorical features such as mainroad, guestroom, and airconditioning have a noticeable impact on pricing.
 **
 Requirements**
